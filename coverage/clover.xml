@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1723213963123" clover="3.2.0">
-  <project timestamp="1723213963124" name="All files">
-    <metrics statements="589" coveredstatements="398" conditionals="80" coveredconditionals="43" methods="14" coveredmethods="14" elements="683" coveredelements="455" complexity="0" loc="589" ncloc="589" packages="2" files="4" classes="4"/>
+<coverage generated="1723988941039" clover="3.2.0">
+  <project timestamp="1723988941039" name="All files">
+    <metrics statements="589" coveredstatements="399" conditionals="80" coveredconditionals="43" methods="14" coveredmethods="14" elements="683" coveredelements="456" complexity="0" loc="589" ncloc="589" packages="2" files="4" classes="4"/>
     <package name="BEJS_fgabatch2_Prawita-Mepilianti_Challenge-Chapter-5">
-      <metrics statements="23" coveredstatements="18" conditionals="2" coveredconditionals="1" methods="0" coveredmethods="0"/>
+      <metrics statements="23" coveredstatements="19" conditionals="2" coveredconditionals="1" methods="0" coveredmethods="0"/>
       <file name="app.js" path="/Users/user/Documents/BEJS_fgabatch2_Prawita-Mepilianti_Challenge-Chapter-5/app.js">
-        <metrics statements="23" coveredstatements="18" conditionals="2" coveredconditionals="1" methods="0" coveredmethods="0"/>
+        <metrics statements="23" coveredstatements="19" conditionals="2" coveredconditionals="1" methods="0" coveredmethods="0"/>
         <line num="1" count="1" type="stmt"/>
         <line num="2" count="1" type="stmt"/>
         <line num="3" count="1" type="stmt"/>
@@ -21,7 +21,7 @@
         <line num="13" count="0" type="stmt"/>
         <line num="14" count="0" type="stmt"/>
         <line num="15" count="0" type="stmt"/>
-        <line num="16" count="0" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
         <line num="17" count="1" type="stmt"/>
         <line num="18" count="1" type="cond" truecount="0" falsecount="1"/>
         <line num="19" count="1" type="cond" truecount="1" falsecount="0"/>
